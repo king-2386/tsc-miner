@@ -1,6 +1,6 @@
 # TensorCash RacerMiner 资源
 
-这里整理了 RacerMiner 运行所需模型下载地址、TensorCash 矿池入口、矿机管理系统以及社区交流渠道，方便在 GitHub 自述中快速查看和使用。
+这里整理了 RacerMiner 运行所需模型下载地址、挖矿软件下载地址、TensorCash 矿池入口、矿机管理系统以及社区交流渠道，方便在 GitHub 自述中快速查看和使用。
 
 ## 模型下载
 
@@ -26,7 +26,11 @@ modelscope download --model RacerModel/Qwen3-8B-Q8_0-full-v2.gguf Qwen3-8B-Q8_0-
 
 ## 矿池
 
-[TensorCash Tiger Pool](https://tsc-miner.tiger-pool.com/)
+[TensorCash Tiger Pool](https://tsc-miner.tiger-pool.com/) - 详细挖矿教程请查看矿池。
+
+## 挖矿软件下载
+
+[RacerMiner 挖矿软件下载](https://tsc-miner.tiger-pool.com/) - 请在矿池页面查看并下载最新挖矿软件。
 
 ## 矿机管理系统
 
@@ -34,6 +38,5 @@ modelscope download --model RacerModel/Qwen3-8B-Q8_0-full-v2.gguf Qwen3-8B-Q8_0-
 
 ## 社区交流
 
-- Discord: [https://discord.gg/3nZmxtm4Pg](https://discord.gg/3nZmxtm4Pg)
-- Telegram: [https://t.me/+D84HNY1Ct8AyNjRk](https://t.me/+D84HNY1Ct8AyNjRk)
-
+- Discord: [https://discord.gg/3nZmxtm4Pg](https://discord.gg/3nZmxtm4Pg) - 意见及帮助请联系 DC 群管理。
+- Telegram: [https://t.me/+D84HNY1Ct8AyNjRk](https://t.me/+D84HNY1Ct8AyNjRk) - 意见及帮助请联系 TG 群管理。
