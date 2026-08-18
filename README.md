@@ -1,6 +1,12 @@
-# TensorCash RacerMiner 资源
+TensorCash RacerMiner 资源
 
-这里整理了 RacerMiner 运行所需模型下载地址、挖矿软件下载地址、TensorCash 矿池入口、矿机管理系统以及社区交流渠道，方便在 GitHub 自述中快速查看和使用。
+这里整理了 RacerMiner 运行所需设备要求、模型下载地址、挖矿软件下载地址、TensorCash 矿池入口、矿机管理系统以及社区交流渠道，方便在 GitHub 自述中快速查看和使用。
+
+## 设备要求
+
+- 显卡：大于 10GB 显存的 NVIDIA 显卡
+- CPU：需支持 AVX2 指令集
+- 内存：大于 8GB
 
 ## 模型下载
 
