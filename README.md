@@ -70,7 +70,8 @@ modelscope download --model RacerModel/Qwen3-8B-Q8_0-full-v2.gguf Qwen3-8B-Q8_0-
   ]
 }
 ```
-![Uploading image.png…]()
+<img width="678" height="818" alt="image" src="https://github.com/user-attachments/assets/c2f1b17e-2a68-4284-a37c-f7546b582f14" />
+
 
 
 ## 社区交流
